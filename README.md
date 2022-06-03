@@ -15,7 +15,7 @@ Stats:
     - 👯 I’m looking to collaborate on Machine Learning Project</br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="dikiwahyu239@gmail.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="mailto:dikiwahyu239@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
