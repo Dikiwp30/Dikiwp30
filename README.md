@@ -26,7 +26,7 @@ Stats:
 
 ### Let's connect!
 <p>
-    <a href="https://www.linkedin.com/in/diki-wahyu-pratama/" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://www.linkedin.com/in/diki-wahyu-pratama/" target="blank"><img src="https://img.shields.io/badge/Diki%20Wahyu%20Pratama-Linkedin-informational" /></a>
 </p>
 
 
